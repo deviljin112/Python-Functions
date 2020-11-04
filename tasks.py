@@ -83,6 +83,7 @@ What would you like to do?
 Options: {" ".join(options).title()}
 => """
     )
+    # Join() combines the list into a readable string and capitalises each word
 
     # Checks that the input is an available option
     if choice.lower() in options:
