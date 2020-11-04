@@ -44,6 +44,8 @@ print(addition(2, 2))
 
 ## Tasks
 
+Available: [here](tasks.py)
+
 - Create a multiplication function
 - Create a division function
 - Create a modulus function
